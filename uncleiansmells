@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+ body{
+ background-color: blue;   
+    
+    
+    
+}
+hr{
+height: 5px;   
+background-color: red;
+    
+}
+   
+
+</style>
+
+<script>
+    
+function bob(){
+alert("uncle really smells of stuff");
+
+}
+    
+    
+    
+    
+    
+    
+</script>
+
+</head>
+<body>
+<button contenteditable="true" onclick="bob()"><h1>elseClick me or elseClick me or elseClick me or elseClick me or elseClick me or else</h1></button>
+<hr>
+</body>
+Getting on to this web cost you £1000
+</html>
